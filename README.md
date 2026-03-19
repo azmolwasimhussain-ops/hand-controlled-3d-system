@@ -25,7 +25,7 @@ Built using **Three.js** to create dynamic, real-time animations.
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript 
 - Three.js  
 
 ---
